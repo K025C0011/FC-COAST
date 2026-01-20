@@ -1,0 +1,59 @@
+@charset "UTF-8";
+p{
+    font-size: 30px;
+    color: black;
+    border-width: thick;
+    border-style: solid;
+}
+p1{
+    font-size: 30px;
+    color: black;
+    border-width: thick;
+    border-style: solid;
+    
+}
+h1{
+    color: red;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 20px;
+    color:red
+}
+
+li{
+    font-size: 40px;
+}
+
+.font-english{
+    font-family: 'Philosopher',sans-serif;
+    font-weight: normal;
+}
+
+.main-nav{
+    display: flex;
+    gap: 2.5rem;
+    font-size: 1.5rem;
+    list-style: none;
+}
+
+.main-nav{
+    color: red;
+}
+
+.logo {
+    width: 100%;
+}
+
+.cover{
+    background-size: cover;
+    background-position: center bottom;
+    height: 90px;
+}
+.body {
+    font-size: 2rem;
+}

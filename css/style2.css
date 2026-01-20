@@ -1,0 +1,30 @@
+div{
+    background-image: url(images/FCCOAST.PNG);
+    background-repeat: no-repeat;
+    background-position: 30px 80px;
+}
+
+p{
+    font-size: 30px;
+    color: black;
+    border-width: thick;
+    border-style: solid;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.cover{
+    background-size: cover;
+    background-position: center bottom;
+    height: 850px;
+    margin-bottom: 5rem;
+}
+.align-center {
+    margin-bottom: 5rem;
+}

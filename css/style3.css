@@ -1,0 +1,54 @@
+div{
+    background-image: url(images/FCC.JPG);
+    background-repeat: no-repeat;
+    background-position: 30px 80px;
+}
+
+p{
+    font-size: 30px;
+    color: red;
+    border-width: thick;
+    border-style: solid;
+}
+
+h1{
+     font-size: 20px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+h6{
+    font-size: 20px;
+}
+
+h7{
+    font-size: 20px;
+}
+
+h8{
+    font-size: 20px;
+}
+
+.cover{
+    background-size: cover;
+    background-position: center bottom;
+    height: 850px;
+    margin-bottom: 5rem;
+}
+.align-center {
+    margin-bottom: 5rem;
+}
